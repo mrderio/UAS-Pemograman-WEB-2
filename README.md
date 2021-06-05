@@ -1,5 +1,13 @@
 # UAS-Pemrogramman-Web-2-Kelompok-5
 
+Assalamualaikum Pa
+Nama : Muhammad Derio
+Kelas : 06TPLE012
+
+izin mengumpulkan tugas UAS
+sekian terima kasih
+Assalamualaikum
+
 Fungsi Fitur
 Login Page :  fungsinya untuk akeses masuk ke dalam dashboard
 jika username dan password benar maka akan dialihkan ke dashboard.
